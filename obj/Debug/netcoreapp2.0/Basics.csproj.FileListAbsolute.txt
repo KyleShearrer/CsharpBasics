@@ -1,0 +1,11 @@
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/bin/Debug/netcoreapp2.0/Basics.deps.json
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/bin/Debug/netcoreapp2.0/Basics.runtimeconfig.json
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/bin/Debug/netcoreapp2.0/Basics.runtimeconfig.dev.json
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/bin/Debug/netcoreapp2.0/Basics.dll
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/bin/Debug/netcoreapp2.0/Basics.pdb
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.csprojResolveAssemblyReference.cache
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.csproj.CoreCompileInputs.cache
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.AssemblyInfoInputs.cache
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.AssemblyInfo.cs
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.dll
+/Users/Kyle/!Spring 2018/Java 4330/c#/Basics/Basics/obj/Debug/netcoreapp2.0/Basics.pdb
